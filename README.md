@@ -9,3 +9,9 @@ This is a Job Protal Website, Made with the Help of `Node.js`, `Express.js`, `Mo
 
 ### Admin Page(Create new job)
 ![newjob](https://github.com/user-attachments/assets/9e0126d8-4075-46ad-adc1-09eb7e63ef9a)
+
+### Profile Section
+![profile](https://github.com/user-attachments/assets/036e683e-ac63-4c26-9bef-3bcc66c34d27)
+
+### To Edit Profile Details
+![profile](https://github.com/user-attachments/assets/eaefbba4-2517-4b14-ae5e-10d556098427)
