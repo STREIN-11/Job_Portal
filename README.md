@@ -14,4 +14,5 @@ This is a Job Protal Website, Made with the Help of `Node.js`, `Express.js`, `Mo
 ![profile](https://github.com/user-attachments/assets/036e683e-ac63-4c26-9bef-3bcc66c34d27)
 
 ### To Edit Profile Details
-![profile](https://github.com/user-attachments/assets/eaefbba4-2517-4b14-ae5e-10d556098427)
+
+![editprofile](https://github.com/user-attachments/assets/76a73de5-5638-4533-8cc9-1970d7f110bf)
